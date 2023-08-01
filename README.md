@@ -1,16 +1,12 @@
-# destini
+# Your Own Story 🤔
 
-A new Flutter project.
+## Description
 
-## Getting Started
+Make your own story by deciding the course of it by choosing 1 of 2 answers.
 
-This project is a starting point for a Flutter application.
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/Destini.gif)
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Selective Navigation based on users answers.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
